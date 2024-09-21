@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uYhhIDGOrvOw0V0+0uQWVmScNYgsksghbLBj1RaTZkg=",
+  "Source": "RealEstateManagement.Api",
+  "BasePath": "_content/RealEstateManagement.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

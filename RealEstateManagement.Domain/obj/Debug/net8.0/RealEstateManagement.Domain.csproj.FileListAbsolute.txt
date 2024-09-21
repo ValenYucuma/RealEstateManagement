@@ -1,0 +1,14 @@
+C:\Users\equipo\source\repos\RealEstateManagement\RealEstateManagement.Domain\bin\Debug\net8.0\RealEstateManagement.Domain.deps.json
+C:\Users\equipo\source\repos\RealEstateManagement\RealEstateManagement.Domain\bin\Debug\net8.0\RealEstateManagement.Domain.dll
+C:\Users\equipo\source\repos\RealEstateManagement\RealEstateManagement.Domain\bin\Debug\net8.0\RealEstateManagement.Domain.pdb
+C:\Users\equipo\source\repos\RealEstateManagement\RealEstateManagement.Domain\obj\Debug\net8.0\RealEstateManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\equipo\source\repos\RealEstateManagement\RealEstateManagement.Domain\obj\Debug\net8.0\RealEstateManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\equipo\source\repos\RealEstateManagement\RealEstateManagement.Domain\obj\Debug\net8.0\RealEstateManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\equipo\source\repos\RealEstateManagement\RealEstateManagement.Domain\obj\Debug\net8.0\RealEstateManagement.Domain.AssemblyInfo.cs
+C:\Users\equipo\source\repos\RealEstateManagement\RealEstateManagement.Domain\obj\Debug\net8.0\RealEstateManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\equipo\source\repos\RealEstateManagement\RealEstateManagement.Domain\obj\Debug\net8.0\RealEstateManagement.Domain.dll
+C:\Users\equipo\source\repos\RealEstateManagement\RealEstateManagement.Domain\obj\Debug\net8.0\refint\RealEstateManagement.Domain.dll
+C:\Users\equipo\source\repos\RealEstateManagement\RealEstateManagement.Domain\obj\Debug\net8.0\RealEstateManagement.Domain.pdb
+C:\Users\equipo\source\repos\RealEstateManagement\RealEstateManagement.Domain\obj\Debug\net8.0\ref\RealEstateManagement.Domain.dll
+C:\Users\equipo\source\repos\RealEstateManagement\RealEstateManagement.Domain\bin\Debug\net8.0\RealEstateManagement.Domain.runtimeconfig.json
+C:\Users\equipo\source\repos\RealEstateManagement\RealEstateManagement.Domain\obj\Debug\net8.0\RealEstateManagement.Domain.genruntimeconfig.cache
